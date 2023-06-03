@@ -78,8 +78,9 @@ def generate_all_collections(pt, sav, inv):
     return checkings, pretax, savings, investments
 
 def import_method():
+    st.markdown("""---""")
     st.header("🎲 Data Upload")
-    option = st.selectbox(label="Select your prefred upload method",options=[docs.DU_MANUAL, docs.DU_EXCEL])
+    option = st.selectbox(label="Select your prefred upload method",options=[docs.DU_EXCEL, docs.DU_MANUAL])
     return option
 
 def main():
