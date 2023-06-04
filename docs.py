@@ -18,6 +18,16 @@ DU_CHECKINGS="Checkings"
 DU_PRETAX="Pre-Tax"
 DU_SAVINGS="Savings"
 DU_INVESTMENTS="Investments"
+DU_ACCOUNTS="Accounts"
+DU_EXPENSES="Expenses"
+DU_SI="S&I"
 
 DU_MANUAL="Manual Entry"
 DU_EXCEL="Upload Excel"
+DU_ACCOUNT_TYPE="Account Type"
+
+DU_ACCOUNT_NAME="Account Name"
+DU_ACCOUNT_VALUE="Current Account Value"
+
+DU_EXPENSE_TYPE="Expense Type"
+DU_EXPENSE_AMOUNT="Monthly Amount"
